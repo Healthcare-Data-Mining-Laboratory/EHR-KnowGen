@@ -1,0 +1,46 @@
+labels,Description
+Capillary refill rate,An rate of assessment performed to estimate peripheral perfusion and hydration status. The test is most often conducted by applying constant manual pressure for a set time on a patient's nail bed and then releasing while observing the length of time it takes for color to return to the tissue. A prolonged return to baseline coloring may indicate compromise of peripheral blood flow
+Diastolic blood pressure,The minimum blood pressure in the systemic arterial circulation during the cardiac cycle.
+Fraction inspired oxygen,"A relative measurement (ratio or percentage) of the amount of oxygen in the arterial blood to the total oxygen in the inspired air. 
+"
+Glascow coma scale eye opening,"A scale that assesses the eye opening response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response"
+Glascow coma scale motor response,"A scale that assesses the motor response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response"
+Glascow coma scale total,"A scale that assesses the total response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response; eye opening"
+Glascow coma scale verbal response,"A scale that assesses the verbal response to stimuli in patients with craniocerebral injuries. The parameters are eye opening, motor response, and verbal response"
+Glucose,"A simple sugar monosaccharide having two isoforms, alpha and beta, with a chemical structure of C6H12O6 that acts as an energy source for both plants and animals by reacting with oxygen, generating carbon dioxide and water, and releasing energy. 
+"
+Heart Rate,"The number of heartbeats per unit of time, usually expressed as beats per minute."
+Height,The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension.
+Mean blood pressure,"The mean pressure of the blood within the arterial circulation. The arterial pressure may be directly measured by insertion of an intra-arterial catheter connected to a transducer. The mean arterial pressure (MAP) can be calculated by subsequent analysis of the waveform. MAP can be approximated without an invasive procedure using the following formula: diastolic pressure plus 1/3 of the pulse pressure, where pulse pressure is systolic pressure - diastolic pressure. "
+Oxygen saturation,The ratio of oxygenated hemoglobin to total hemoglobin in the blood.
+Respiratory rate,A measurement that describes the rate of breathing (inhalation and exhalation) measured within a unit time.
+Systolic blood pressure,The maximum pressure exerted into the systemic arterial circulation during the contraction of the left ventricle of the heart.
+Temperature,"A measure of the average kinetic energy of a system of particles. Temperature may be quantified, in the context of thermodynamics, as the potential of one system to transfer thermal energy to another system until both systems reach a state of thermal equilibrium"
+Weight,A measurement that describes the vertical force exerted by a mass of the patient as a result of gravity.
+pH,"Quantity of dimension one used to express on a scale from 0 to 14 the amount-of-substance concentration of hydrogen ion of dilute aqueous solution, calculated as the logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per liter."
+Acute and unspecified renal failure,"Deterioration of renal function, occurring within a time frame of hours to weeks, that results in failure to maintain normal fluid, electrolyte, waste products, and/or acid-base balance. unspecified renal failure"
+Acute cerebrovascular disease,Acute disease; Relating to the brain and the blood vessels that supply it.
+Acute myocardial infarction,"Necrosis of the myocardium, as a result of interruption of the blood supply to the area. It is characterized by a severe and rapid onset of symptoms that may include chest pain, often radiating to the left arm and left side of the neck, dyspnea, sweating, and palpitations. "
+Complications of surgical procedures or medical care,"Complications of surgical procedures; Services obtained from a medical professional for the maintenance of health, prevention of illness, and treatment of illness or injury. "
+Fluid and electrolyte disorders,"An abnormality of the regulation of body fluids. Abnormality of the homeostasis (concentration) of a monoatomic ion. A metabolic disorder that is characterized by electrolyte imbalances (e.g., hyperkalemia, hypokalemia, and hypercalcemia). "
+Gastrointestinal hemorrhage,Bleeding in any segment of the GASTROINTESTINAL TRACT from ESOPHAGUS to RECTUM. Hemorrhage affecting the gastrointestinal tract.
+Other lower respiratory disease,Other lower Diseases of the respiratory system in general or unspecified or for a specific respiratory disease not available
+Other upper respiratory disease,Other upper Diseases of the respiratory system in general or unspecified or for a specific respiratory disease not available
+Pleurisy;pneumothorax; pulmonary collapse,Inflammation of the pleura. It is usually caused by infections. Chest pain while breathing or coughing is the presenting symptom.A disorder characterized by abnormal presence of air in the pleural cavity resulting in the collapse of the lung.  pulmonary collapse
+Pneumonia (except that caused by tuberculosis or sexually transmitted disease),"A condition resulting from infection in one or both lungs,except that caused by tuberculosis or sexually transmitted disease."
+Respiratory failure; insufficiency;arrest (adult),"The significant impairment of gas exchange within the lungs resulting in hypoxia, hypercarbia, or both, to the extent that organ tissue perfusion is severely compromised. Causes include chronic obstructive pulmonary disease, asthma, emphysema, acute respiratory distress syndrome, pneumonia, pulmonary edema, pneumothorax, and congestive heart failure. Treatment requires intubation and mechanical ventilation until the time the lungs recover sufficient function. Cessation of cardiac function"
+Septicemia (except in labor),A disorder characterized by the presence of pathogenic microorganisms in the blood stream that cause a rapidly progressing systemic reaction that may lead to shock(except in labor).
+Shock,Profoundly reduced blood flow that results in impaired tissue perfusion and possible end organ damage.
+Chronic kidney disease,Impairment of the renal function secondary to chronic kidney damage persisting for three or more months.
+Chronic obstructive pulmonary disease and bronchiectasis,"A chronic and progressive lung disorder characterized by the loss of elasticity of the bronchial tree and the air sacs, destruction of the air sacs wall, thickening of the bronchial wall, and mucous accumulation in the bronchial tree. The pathologic changes result in the disruption of the air flow in the bronchial airways. Signs and symptoms include shortness of breath, wheezing, productive cough, and chest tightness. The two main types of chronic obstructive pulmonary disease are chronic obstructive bronchitis and emphysema. Segmental dilation of the bronchial tree."
+Coronary atherosclerosis and other heart disease,Atherosclerosis of the coronary vasculature.  other heart disease.
+Diabetes mellitus without complication,"diabetes mellitus, not including organ or tissue damage."
+Disorders of lipid metabolism,"Pathological conditions resulting from abnormal anabolism or catabolism of lipids in the body. An inherited metabolic disorder caused by an enzyme deficiency, resulting in an inability to oxidize fatty acids for energy production. "
+Essential hypertension,"Hypertension that occurs without known cause, or preexisting renal disease. Associated polymorphisms for a number of genes have been identified, including AGT, GNB3, and ECE1. Hypertension that presents without an identifiable cause. "
+Hypertension with complications and secondary hypertension,Abnormally high blood pressure. High blood pressure caused by an underlying medical condition.
+Cardiac dysrhythmias,"Any variation from the normal rate or rhythm (which may include the origin of the impulse and/or its subsequent propagation) in the heart. 
+"
+Conduction disorders,A disorder affecting the conduction system that sends electrical signals in the myocardium.
+Congestive heart failure;nonhypertensive,"Failure of the heart to pump a sufficient amount of blood to meet the needs of the body tissues, resulting in tissue congestion and edema. Signs and symptoms include shortness of breath, pitting edema, enlarged tender liver, engorged neck veins, and pulmonary rales. nonhypertensive"
+Diabetes mellitus with complications,"Organ or tissue damage due to diabetes mellitus. It includes heart disease and stroke, renal disease and renal failure, retinopathy, neuropathies, and erectile dysfunction"
+Other liver diseases,Other abnormality of the liver.
